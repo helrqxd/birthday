@@ -35,7 +35,7 @@ $(function () {
         // After the animation, show the choices
         setTimeout(function () {
             $('#choice-container').css('display', 'flex').hide().fadeIn();
-            document.getElementById('shui-audio').play();
+            document.getElementById('gzqs-audio').play();
         }, 1600); // A bit after the transform animation ends
     });
 
